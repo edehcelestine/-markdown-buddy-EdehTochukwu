@@ -52,3 +52,18 @@ Distributed under the MIT License. See `LICENSE` for more details.
   2. *"Revise the sections list so it’s concise and uses Markdown headers and bullet formatting."*
   3. *"Here’s a summary of my R project: Global E-Commerce Sales Performance. Generate a professional README.md file using Markdown with Installation, Example Code, and License sections."*
 * **Edits Made:** Replaced sample placeholder file paths with actual intended filenames (`sales_analysis.R`) and updated package dependency versions to reflect accurate R standards.
+
+---
+
+## AI Assistance Disclosure
+In accordance with the assignment guidelines, this project utilized artificial intelligence for structural layout drafting and formatting assistance:
+
+* **AI Tool Used:** Gemini (September 2026)
+* **Main Prompts Provided:**
+  1. *Seed Prompt:* "Explain what sections a good GitHub README for an R data analysis project should include."
+  2. *Refinement Prompt:* "Revise the sections list so it’s concise and uses Markdown headers and bullet formatting."
+  3. *Drafting Prompt:* "Here’s a summary of my R project: Global E-Commerce Sales Performance. Generate a professional README.md file using Markdown with Installation, Example Code, and License sections."
+* **Changes Made After Review:** 
+  * Replaced the generic template repository links with the actual required naming syntax (`markdown-buddy-[yourname]`).
+  * Manually verified that all Markdown headers (`#`, `##`) and code block indicators rendered properly using GitHub's file preview window.
+  * Ensured no AI calculation was utilized, maintaining manual code calculations as required by the course guidelines.
