@@ -1,6 +1,6 @@
 ---
 title: "Script Documentation: sales_analysis.R"
-author: "Your Name"
+author: "Edeh Tochukwu"
 date: "`r Sys.Date()`"
 output: html_document
 ---
